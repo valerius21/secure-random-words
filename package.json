@@ -1,6 +1,10 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.11",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valerius21/secure-random-words"
+  },
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
